@@ -1,0 +1,1 @@
+![Static Badge](https://img.shields.io/badge/STATUS-CONCLUIDO-%23A13DE6%20?label=STATUS&labelColor=%233371FF)
